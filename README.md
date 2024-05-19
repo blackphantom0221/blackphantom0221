@@ -1,16 +1,145 @@
-# 💫 About Me:
-Having 10+ years of experience in software development, I am constantly seeking to learn something new.<br>Want to collaborate with innovative and energetic team.<br>
+# Sr. Full-Stack Software Engineer - MERN, MEAN, Next.js, NESTJS | React Native & Flutter | Blockchain | AWS Cloudfront
 
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Engineer+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <br/>
+  - 🚀 Seasoned Full Stack Software Engineer with over 9+ years of practical experience designing and building scalable, high-performance web applications<br/>
+  - 🔥 Proficient in front-end technologies like React/Next.js, Vue/Nuxt.js, Angular as well as back-end technologies like Node.js/ExpressJS/NestJS and Python<br/>
+  - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
+  - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
+  - ⏱ Flexible working timezone.<br/>
+  - 🍻 Excellent communication skills.<br/>
+  - 💼 Full-time job oriented.<br/>
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=blackphantom0221&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=blackphantom0221&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackphantom0221&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>My stack :man_technologist:</h2>
 
-### ✍️ Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
+      <br>svelte
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="NestJS" />
+      <br>Nestjs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NestJS" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
+      <br>Styled
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
+      <br>NFT
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
+      <br>DeFi
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+  </tr>
+</table>
